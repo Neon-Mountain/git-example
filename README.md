@@ -1,2 +1,2 @@
 # git-example
-This is a really simple repo.
+Workshop snack: burgers
